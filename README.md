@@ -12,7 +12,9 @@
 Instalacion:
 
 ```git clone https://github.com/lucasdefrancesca/text-mining.git ```
+
 ```mkvirtualenv <name> ```
+
 ```pip install -r requirements.txt ```
 
 #### Trabajo practico Clustering
