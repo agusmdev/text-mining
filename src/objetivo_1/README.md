@@ -60,6 +60,14 @@ En el siguiente cluster se pueden observar meses del año.
 ```
 63: {'abril', 'bateo', 'corrector', 'diciembre', 'estudiantes', 'febrero', 'fructificación', 'guerra', 'julio', 'noviembre', 'observación', 'octubre', 'oxidación', 'restos'}
 ```
+Sin realizar reduccion de dimensionalidad no hubo tantas diferencias, mostramos la obtencion de un cluster en particular:
+```
+70: {'fungi', 'hongo', 'micorrizas', 'odonato'}
+```
+En el cluster mensionado arriba se pueden observar palabras referidas a hongos, usando reduccion de dimensionalidad estas palabras quedaron en un cluster de mayor tamaño, el cual posee varias palabras referidas a las plantas
+```
+20: {'adhesión', 'afiliación', 'agua', 'algodón', 'ancho', 'arena', 'azul','basidios', 'calderería', 'carbonato', 'cargas', 'color','coníferas','corrector', 'dirección','diámetro','encuesta','espesor', 'forma', 'francés', 'frosardismo', 'fungi', 'fútbol', 'género', 'hongo','inteligencia','investigación', 'malversaciones', 'mano', 'micorrizas', 'miradas', 'nivel', 'obra', 'odonato', 'paja', 'plantas', 'politburó', 'posguerra', 'prefacios', 'problemas', 'rugosidades', 'secundaria', 'tamaño', 'televisión', 'temporada', 'trébol', 'verrugas', 'visitantes', 'árboles'}
+```
 ### Referencias
 
 1.[Cristian Cardellino: Spanish Billion Words Corpus and Embeddings (March 2016)]( https://crscardellino.github.io/SBWCE/).
