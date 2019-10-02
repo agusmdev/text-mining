@@ -71,4 +71,5 @@ En el cluster mensionado arriba se pueden observar palabras referidas a hongos, 
 ### Referencias
 
 1.[Cristian Cardellino: Spanish Billion Words Corpus and Embeddings (March 2016)]( https://crscardellino.github.io/SBWCE/).
+
 2.[Categoria Gramatical](https://es.wikipedia.org/wiki/Categor%C3%ADa_gramatical).
