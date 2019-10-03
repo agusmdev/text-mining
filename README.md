@@ -4,10 +4,10 @@
 
 #### Librerias utilizadas
 
-- spacy
-- pickle
-- matplotlib
-- sklearn
+- [spacy](https://spacy.io/)
+- [pickle](https://docs.python.org/3/library/pickle.html)
+- [matplotlib](https://matplotlib.org/)
+- [sklearn](https://scikit-learn.org/stable/)
 
 Instalacion:
 
@@ -19,4 +19,5 @@ Instalacion:
 
 #### Trabajo practico Clustering
  
- [Objetivo 1 Clustering](./src/objetivo_1/README.md)
+ [Objetivo 1 Clustering](./src/general/README.md)
+
