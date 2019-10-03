@@ -60,6 +60,10 @@ En el siguiente cluster se pueden observar meses del año.
 ```
 63: {'abril', 'bateo', 'corrector', 'diciembre', 'estudiantes', 'febrero', 'fructificación', 'guerra', 'julio', 'noviembre', 'observación', 'octubre', 'oxidación', 'restos'}
 ```
+En el siguiente cluster se pueden observar que la mayoria de palabras son adverbios.
+```
+6: {'allá', 'anteriormente', 'atrás', 'australis', 'claramente', 'completamente', 'construir', 'cuyo', 'deberá', 'densamente', 'diecisiete', 'diez', 'diversas', 'enfrentándose', 'explicando', 'finalmente', 'igualmente', 'inicialmente', 'intensamente', 'justo', 'lentamente', 'libremente', 'loa', 'madre', 'misteriosamente', 'moderadamente', 'mouvement', 'mutuamente', 'normalmente', 'of', 'oficialmente', 'originalmente', 'radicalmente', 'realmente', 'reformar', 'rápidamente', 'totalmente', 'típicamente', 'únicamente'}
+```
 Sin realizar reduccion de dimensionalidad no hubo tantas diferencias, mostramos la obtencion de un cluster en particular:
 ```
 70: {'fungi', 'hongo', 'micorrizas', 'odonato'}
